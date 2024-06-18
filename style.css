@@ -1,0 +1,23 @@
+img {
+    border-radius: 400px;
+    width: 380px;
+    margin-left: 200px;
+}
+body{ 
+    display: grid;
+    grid-column:15  ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+h1 {
+    font-size: 80px;
+   
+    margin-top: 150px;
+   
+}
+div {
+    background-color: black;
+}
+h2 {
+}
