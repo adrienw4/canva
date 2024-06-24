@@ -3,21 +3,32 @@ img {
     width: 380px;
     margin-left: 200px;
 }
-body{ 
-    display: grid;
-    grid-column:15  ;
+body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
-    
+    text-align: center;
+ }
+ .container{ 
+    display: flex;
+    flex-direction: column;
+
+
+ }
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-h1 {
-    font-size: 80px;
-   
-    margin-top: 150px;
-   
+h1{
+    font-size: 70px;
 }
-div {
-    background-color: black;
+h2,h3,h4,h5,h6{
+ font-size: 30px;
 }
-h2 {
+
+
+p{
+    font-size: 25px;
+}
+li{
+    font-size: 20px;
 }
